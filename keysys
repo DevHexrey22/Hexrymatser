@@ -120,6 +120,10 @@ for i, v in pairs(plrGui:GetChildren()) do
                         elseif a == 2788229376 then -- Place ID / Game ID
                             loadstring(game:HttpGet("https://raw.githubusercontent.com/DevHexrey22/RohubGOOD/main/hubbbb"))()
                             print("working")
+                            
+                        elseif a == 8737602449 then -- Place ID / Game ID
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/DevHexrey22/RohubGOOD/main/hubbbb"))()
+                            print("working")
 
                             --game.Players.LocalPlayer:Kick("Not Supported")
                         else game.Players.LocalPlayer:Kick("Outdated Key Get New Key discord.gg/kszkGfN24d or The game is not supported by this script") --Kick Message For Free Key 
