@@ -113,10 +113,10 @@ for i, v in pairs(plrGui:GetChildren()) do
                             print("working")
                             
                          elseif a == 9498006165 then -- Place ID / Game ID
-                            loadstring(game:HttpGet("https://raw.githubusercontent.com/DevHexrey22/RohubGOOD/main/hubbbb"))() --Loadstring
+                            loadstring(game:HttpGet("https://raw.githubusercontent.com/DevHexrey22/games/main/tapping%20sim"))() --Loadstring
                             print("working")
 
-                        elseif a == 2788229376 then -- Place ID / Game ID
+                        elseif a == 2788229376 then -- dahood
                             loadstring(game:HttpGet("https://raw.githubusercontent.com/DevHexrey22/RohubGOOD/main/hubbbb"))()
                             print("working")
                             
@@ -125,7 +125,7 @@ for i, v in pairs(plrGui:GetChildren()) do
                             print("working")
                             
                           elseif a == 3606833500 then -- Place ID / Game ID
-                            loadstring(game:HttpGet("https://raw.githubusercontent.com/DevHexrey22/RohubGOOD/main/hubbbb"))()
+                           loadstring(game:HttpGet("https://raw.githubusercontent.com/DevHexrey22/games/main/Strucid"))()
                             print("working")
 
                             --game.Players.LocalPlayer:Kick("Not Supported")
